@@ -1,0 +1,12 @@
+#container{
+    border:dotted;color: aqua;
+    margin: 5%;
+}
+
+ p{ 
+    border: solid 2px black;
+    padding: 20px;
+    margin: 5%;
+
+
+}
